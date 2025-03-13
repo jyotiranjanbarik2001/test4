@@ -14,6 +14,8 @@ public class Test4Application {
 		long=283787238;
 		String="kjlsdhfkjhska";
 		String="skjgkjagga";
+    char=a;
+		String="hjsgdj";
 		SpringApplication.run(Test4Application.class, args);
 	}
 
