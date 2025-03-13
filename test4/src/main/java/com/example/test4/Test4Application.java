@@ -12,7 +12,7 @@ public class Test4Application {
 		float x=23.3;
 		double x=89.32;
 		long=283787238;
-		
+		String="hjsgdj";
 		SpringApplication.run(Test4Application.class, args);
 	}
 
